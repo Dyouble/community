@@ -1,0 +1,1 @@
+2023-05-09 16:54:56,793 WARN [http-nio-8080-exec-1] o.s.w.s.m.s.DefaultHandlerExceptionResolver [AbstractHandlerExceptionResolver.java:207] Resolved [org.springframework.web.bind.MissingRequestCookieException: Required cookie 'code' for method parameter type String is not present]
